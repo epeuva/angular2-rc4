@@ -1,5 +1,9 @@
 # TestAngular2Rc4
 
+[![Build Status][travis-badge]][travis-badge-url]
+[![Dependency Status][david-badge]][david-badge-url]
+[![devDependency Status][david-dev-badge]][david-dev-badge-url]
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.9.
 
 ## Development server
@@ -29,3 +33,16 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## License
+
+MIT
+
+
+[travis-badge]: https://travis-ci.org/epeuva/test-angular2-rc4.svg?branch=master
+[travis-badge-url]: https://travis-ci.org/epeuva/test-angular2-rc4
+[david-badge]: https://david-dm.org/epeuva/test-angular2-rc4.svg
+[david-badge-url]: https://david-dm.org/epeuva/test-angular2-rc4
+[david-dev-badge]: https://david-dm.org/epeuva/test-angular2-rc4/dev-status.svg
+[david-dev-badge-url]: https://david-dm.org/epeuva/test-angular2-rc4#info=devDependencies

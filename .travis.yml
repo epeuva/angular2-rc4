@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - 5
+  - stable
+
+sudo: false
+
+cache:
+  directories:
+    - node_modules
+
+script:
+  - npm install
+  - npm test
